@@ -1,3 +1,6 @@
 [submodule "setup"]
 	path = setup
 	url = https://github.com/stahta01/codeblocks_unofficial_installers.git
+[submodule "codeblocks"]
+	path = codeblocks
+	url = https://github.com/stahta01/codeblocks_PCH_fixes.git
